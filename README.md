@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ayush.
+- 👀 I’m interested in coding with JAVA and Ruby.
+- 🌱 I’m currently learning Ruby.
+- 📫 Contact me @ ayushsinhaa007@gmail.com
