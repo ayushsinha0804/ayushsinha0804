@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ayush.
-- 👀 I’m interested in coding with JAVA and Ruby.
-- 🌱 I’m currently learning Ruby.
-- 📫 Contact me @ ayushsinhaa007@gmail.com
+Computer Science student passionate about coding, problem-solving, and exploring the vast world of technology. Currently pursuing a degree in Computer Science with a focus on algorithms, data structures, and software development. Proficient in languages such as Python, Java, and C++. Enthusiastic about learning new technologies and frameworks to build innovative and impactful projects. Actively seeking opportunities to collaborate on open-source projects and contribute to the thriving developer community. Dedicated to continuous growth, embracing challenges, and leveraging technology to make a positive impact on society.
+
+Feel free to personalize this bio by adding specific projects, areas of interest, or achievements that showcase your skills and expertise as a computer science student.
